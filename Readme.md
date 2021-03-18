@@ -30,8 +30,6 @@ It started as a modification of another Persona 5 Calendar skin by DeviantArt us
 ## Notes
 I recommend to turn on hardware acceleration for Rainmeter because it's resizing around 11 high res images every refresh. It's a bad implementation, but I want to have a resizable skin with high rez art, and I don't feel like manually resizing the 500+ images in this skin.
 
-Originally, the skin used Weather.com as the weather provider before wxdata was deprecated, hence why there are also wxdata icons in there.
-
 ## Credits
 - Dartemil for the original Persona 5 Calendar skin
 - The original Persona 4 Calendar skin that started all this, I can't find it anymore
