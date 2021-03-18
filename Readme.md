@@ -21,7 +21,7 @@ It started as a modification of another Persona 5 Calendar skin by DeviantArt us
 - Download the release .rmskin package and install
 - (or clone the repository and put it in Rainmeter/Skins)
 - Go to OpenWeatherMap.com and find the city closest to you
-- Open Settings.ini in Rainmeter/Skins and add the city ID to the Location Code variable. There are instructions in the .ini file how to do it
+- Open Settings.inc in Rainmeter/Skins and add the city ID to the Location Code variable. There are instructions in the .inc file how to do it
 - Register for a free account on OpenWeatherMap.com
 - Create an API key and add it to the .ini file
 - Adjust the size of the skin to your liking
